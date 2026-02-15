@@ -1,1 +1,1 @@
-![Resurreccion_William](Resurreccion_William.png)
+![Resurreccion_William](img/Resurreccion_William.png)

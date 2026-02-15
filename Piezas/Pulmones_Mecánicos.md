@@ -1,1 +1,1 @@
-![Pulmones Mecanicos](Pulmones_Mecanicos.png)
+![Pulmones Mecanicos](img/Pulmones_Mecanicos.png)
