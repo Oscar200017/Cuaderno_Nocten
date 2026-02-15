@@ -15,7 +15,7 @@
 
 ## Proyectos completados
 
-- [Resurrección De William](Resurreción_William)
+- [Resurrección De William](Resurrección_William.md)
 
 ---
 ## Conocimientos Extras

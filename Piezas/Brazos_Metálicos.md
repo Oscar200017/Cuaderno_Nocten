@@ -1,6 +1,6 @@
 # Prototipos de brazos
 
-![[img/Prototipo_Brazos.png]]
+![Prototipo Brazos](img/Prototipo_Brazos.png)
 
 ## Variante A
 Planchas de metal y muelles de resorte.

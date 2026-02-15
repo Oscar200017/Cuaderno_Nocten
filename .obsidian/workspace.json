@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Piezas/Bomba_De_Esencia.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bomba_De_Esencia"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Piezas/Bomba_De_Esencia.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bomba_De_Esencia"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Piezas/Bomba_De_Esencia.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bomba_De_Esencia"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Piezas/Bomba_De_Esencia.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Bomba_De_Esencia"
+              "title": "Outline of README"
             }
           },
           {
@@ -196,17 +196,25 @@
   },
   "active": "acbfb1f7d9fedb19",
   "lastOpenFiles": [
-    "Piezas/Corazón_Mecánico.md",
-    "Piezas/Bomba_De_Esencia.md",
     "Indice.md",
-    "Personas/Retratos.md",
-    "Rituales/Anclaje_Esencia.md",
-    "Piezas/Proceso_De_Montaje.md",
+    "Rituales/Resurrección_William.md",
     "Rituales/Protocolo_Retorno_Familia_Corvus.md",
+    "Rituales/Anclaje_Esencia.md",
+    "Planos/Mansión_Corvus.md",
+    "Piezas/Pulmones_Mecánicos.md",
+    "Piezas/Proceso_De_Montaje.md",
+    "img/Pulmones_Mecanicos.png",
+    "Piezas/Piernas_Metálicas.md",
+    "Piezas/Cráneo_Hidráulico.md",
+    "Piezas/Corazón_Mecánico.md",
+    "Piezas/Columna_Mecánica.md",
+    "Piezas/Cóccix_Mecánico.md",
+    "Piezas/Brazos_Metálicos.md",
+    "Piezas/Bomba_De_Esencia.md",
+    "Personas/Retratos.md",
     "README.md",
     "![[img/Portada.png.md",
     "![[img",
-    "Planos/Mansión_Corvus.md",
     "img/Portada.png",
     "img/Portada.png.opdownload",
     "README.md.opdownload",
@@ -217,7 +225,6 @@
     "Personas/Emily_Thomson.png.opdownload",
     "Personas/Atakhan_Barebi.png",
     "Personas/Emily_Thomson.png",
-    "Piezas/Brazos_Metálicos.md",
     "01_Protocolo_Reencarnacion.md",
     "Personas/Amelin_Gerserver.png",
     "Personas/Antoniette_Williams_Blanc.png",
@@ -225,18 +232,11 @@
     "Personas/Antoniette.png.opdownload",
     "Personas/Gerserver.png",
     "Personas/Gerserver.png.opdownload",
-    "Personas/Yestra_Corvus_Corvus.png",
     "Personas/Yestra_Corvus_Corvus.png.opdownload",
     "Personas/Sophie_Corvus_Corvus.png.opdownload",
-    "Piezas/Pulmones_Mecánicos.md",
     "[Columna_Mecánica.md",
-    "Rituales/Resurreción_William.md",
     "Pruebas/Sujetos_De_Prueba.md",
     "Pruebas/Pruebas_Fallidas.md",
-    "Piezas/Piernas_Metálicas.md",
-    "Piezas/Cráneo_Hidráulico.md",
-    "Piezas/Columna_Mecánica.md",
-    "Piezas/Cóccix_Mecánico.md",
     "Welcome.md",
     "Untitled.md"
   ]

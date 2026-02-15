@@ -1,1 +1,0 @@
-![[Resurreccion_William.png]]

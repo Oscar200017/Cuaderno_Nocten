@@ -1,6 +1,6 @@
 # Ensamblaje General
 
-![[Partes_Al_Completo_2.png]]
+![Partes Al Completo](Partes_Al_Completo_2.png)
 
 ## Orden de montaje recomendado
 

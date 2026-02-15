@@ -1,6 +1,6 @@
 # Boceto de un cóccix mecánico básico
 
-![[img/Coxis_Mecanico.png]]
+![Coccix Mecanico](img/Coxis_Mecanico.png)
 
 ## Función
 

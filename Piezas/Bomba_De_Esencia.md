@@ -1,6 +1,6 @@
 # Boceto de la bomba de esencia v0.1
 
-![[img/Bomba_Esencia.png]]
+![Bomba Esencia](img/Bomba_Esencia.png)
 
 ## Descripción General
 

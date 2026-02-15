@@ -1,6 +1,6 @@
 # Prototipos de piernas
 
-![[img/Prototipo_Piernas.png]]
+![Prototipo Piernas](img/Prototipo_Piernas.png)
 
 ## Variante A
 Sistema de muelles comprimidos.
