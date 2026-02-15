@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personas/Retratos.md",
+                "file": "Piezas/Proceso_De_Montaje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retratos"
+              "title": "Proceso_De_Montaje"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personas/Retratos.md",
+                "file": "Piezas/Proceso_De_Montaje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Retratos"
+              "title": "Backlinks for Proceso_De_Montaje"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personas/Retratos.md",
+                "file": "Piezas/Proceso_De_Montaje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Retratos"
+              "title": "Outgoing links from Proceso_De_Montaje"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personas/Retratos.md",
+                "file": "Piezas/Proceso_De_Montaje.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Retratos"
+              "title": "Outline of Proceso_De_Montaje"
             }
           },
           {
@@ -196,6 +196,7 @@
   },
   "active": "acbfb1f7d9fedb19",
   "lastOpenFiles": [
+    "Personas/Retratos.md",
     "Indice.md",
     "Rituales/Resurrección_William.md",
     "Rituales/Protocolo_Retorno_Familia_Corvus.md",
@@ -209,7 +210,6 @@
     "Piezas/Columna_Mecánica.md",
     "Piezas/Cóccix_Mecánico.md",
     "Piezas/Brazos_Metálicos.md",
-    "Personas/Retratos.md",
     "Piezas/Pulmones_Mecánicos.md",
     "README.md",
     "img/Pulmones_Mecanicos.png",
