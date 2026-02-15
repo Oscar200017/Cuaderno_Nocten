@@ -18,7 +18,12 @@
 - [[Resurreción_William]]
 
 ---
+## Conocimientos Extras
 
+- [[Retratos]]
+- [[Mansión_Corvus]]
+
+---
 > [!note]
 > La muerte no es el final.  
 > Solo es un sistema sin flujo.

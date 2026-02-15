@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personas/Retratos.md",
+                "file": "Indice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Retratos"
+              "title": "Indice"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personas/Retratos.md",
+                "file": "Indice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Retratos"
+              "title": "Backlinks for Indice"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personas/Retratos.md",
+                "file": "Indice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Retratos"
+              "title": "Outgoing links from Indice"
             }
           },
           {
@@ -156,17 +156,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personas/Retratos.md",
+                "file": "Indice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Retratos"
+              "title": "Outline of Indice"
+            }
+          },
+          {
+            "id": "d64bb162012d298f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -186,6 +196,15 @@
   },
   "active": "acbfb1f7d9fedb19",
   "lastOpenFiles": [
+    "README.md",
+    "Indice.md",
+    "![[img/Portada.png.md",
+    "![[img",
+    "Planos/Mansión_Corvus.md",
+    "img/Portada.png",
+    "img/Portada.png.opdownload",
+    "Personas/Retratos.md",
+    "README.md.opdownload",
     "Personas/Amelin_Gerserber.png",
     "Personas/Mary_Nielsen.png",
     "Personas/Mary_Nielsen.png.opdownload",
@@ -194,8 +213,6 @@
     "Personas/Atakhan_Barebi.png",
     "Personas/Emily_Thomson.png",
     "Piezas/Bomba_De_Esencia.md",
-    "Personas/Retratos.md",
-    "Indice.md",
     "Piezas/Brazos_Metálicos.md",
     "01_Protocolo_Reencarnacion.md",
     "Piezas/Proceso_De_Montaje.md",
@@ -207,12 +224,7 @@
     "Personas/Gerserver.png.opdownload",
     "Personas/Yestra_Corvus_Corvus.png",
     "Personas/Yestra_Corvus_Corvus.png.opdownload",
-    "Personas/Sophie_Corvus_Corvus.png",
     "Personas/Sophie_Corvus_Corvus.png.opdownload",
-    "Personas/Robin_Corvus_Corvus.png",
-    "Personas/Robin_Corvus_Corvus.png.opdownload",
-    "Personas/Sebastian_Corvus_Corvus.png.opdownload",
-    "Personas/Elenor_Corvus_Corvus.png.opdownload",
     "Piezas/Pulmones_Mecánicos.md",
     "[Columna_Mecánica.md",
     "Rituales/Protocolo_Retorno_Familia_Corvus.md",
