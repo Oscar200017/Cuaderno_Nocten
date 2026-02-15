@@ -4,13 +4,13 @@
 
 ## Orden de montaje recomendado
 
-1. [Columna](Columna_Mecánica)
-2. [Cóccix](Cóccix_Mecánico)
-3. [Bomba de esencia](Bomba_De_Esencia)
-4. [Pulmones](Pulmones_Mecánicos)
-5. [Cráneo](Cráneo_Hidráulico)
-6. [Piernas](Piernas_Metálicas)
-7. [Brazos](Brazos_Metálicos)
+1. [Columna](Piezas/Columna_Mecánica.md)
+2. [Cóccix](Piezas/Cóccix_Mecánico.md)
+3. [Bomba de esencia](Piezas/Bomba_De_Esencia.md)
+4. [Pulmones](Piezas/Pulmones_Mecánicos.md)
+5. [Cráneo](Piezas/Cráneo_Hidráulico.md)
+6. [Piernas](Piezas/Piernas_Metálicas.md)
+7. [Brazos](Piezas/Brazos_Metálicos.md)
 
 ---
 
