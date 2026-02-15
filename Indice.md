@@ -7,21 +7,21 @@
 
 ## Proyectos activos
 
-- [[Protocolo_Retorno_Familia_Corvus]]
-- [[Proceso_De_Montaje]]
-- [[Anclaje_Esencia]]
+- [Protocolo Retorno Familia Corvus](Protocolo_Retorno_Familia_Corvus)
+- [Proceso De Montaje](Proceso_De_Montaje)
+- [Anclaje De Esencia](Anclaje_Esencia)
 
 ---
 
 ## Proyectos completados
 
-- [[Resurreción_William]]
+- [Resurrección De William](Resurreción_William)
 
 ---
 ## Conocimientos Extras
 
-- [[Retratos]]
-- [[Mansión_Corvus]]
+- [Retratos Y Bocetos Conocidos](Retratos)
+- [Planos De La Mansión](Mansión_Corvus)
 
 ---
 > [!note]

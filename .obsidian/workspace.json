@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Indice.md",
+                "file": "Piezas/Bomba_De_Esencia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indice"
+              "title": "Bomba_De_Esencia"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Indice.md",
+                "file": "Piezas/Bomba_De_Esencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Indice"
+              "title": "Backlinks for Bomba_De_Esencia"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Indice.md",
+                "file": "Piezas/Bomba_De_Esencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Indice"
+              "title": "Outgoing links from Bomba_De_Esencia"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Indice.md",
+                "file": "Piezas/Bomba_De_Esencia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Indice"
+              "title": "Outline of Bomba_De_Esencia"
             }
           },
           {
@@ -196,14 +196,19 @@
   },
   "active": "acbfb1f7d9fedb19",
   "lastOpenFiles": [
-    "README.md",
+    "Piezas/Corazón_Mecánico.md",
+    "Piezas/Bomba_De_Esencia.md",
     "Indice.md",
+    "Personas/Retratos.md",
+    "Rituales/Anclaje_Esencia.md",
+    "Piezas/Proceso_De_Montaje.md",
+    "Rituales/Protocolo_Retorno_Familia_Corvus.md",
+    "README.md",
     "![[img/Portada.png.md",
     "![[img",
     "Planos/Mansión_Corvus.md",
     "img/Portada.png",
     "img/Portada.png.opdownload",
-    "Personas/Retratos.md",
     "README.md.opdownload",
     "Personas/Amelin_Gerserber.png",
     "Personas/Mary_Nielsen.png",
@@ -212,10 +217,8 @@
     "Personas/Emily_Thomson.png.opdownload",
     "Personas/Atakhan_Barebi.png",
     "Personas/Emily_Thomson.png",
-    "Piezas/Bomba_De_Esencia.md",
     "Piezas/Brazos_Metálicos.md",
     "01_Protocolo_Reencarnacion.md",
-    "Piezas/Proceso_De_Montaje.md",
     "Personas/Amelin_Gerserver.png",
     "Personas/Antoniette_Williams_Blanc.png",
     "Personas/Antoniette.png",
@@ -227,14 +230,11 @@
     "Personas/Sophie_Corvus_Corvus.png.opdownload",
     "Piezas/Pulmones_Mecánicos.md",
     "[Columna_Mecánica.md",
-    "Rituales/Protocolo_Retorno_Familia_Corvus.md",
     "Rituales/Resurreción_William.md",
-    "Rituales/Anclaje_Esencia.md",
     "Pruebas/Sujetos_De_Prueba.md",
     "Pruebas/Pruebas_Fallidas.md",
     "Piezas/Piernas_Metálicas.md",
     "Piezas/Cráneo_Hidráulico.md",
-    "Piezas/Corazón_Mecánico.md",
     "Piezas/Columna_Mecánica.md",
     "Piezas/Cóccix_Mecánico.md",
     "Welcome.md",

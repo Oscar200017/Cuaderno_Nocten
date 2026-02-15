@@ -37,4 +37,4 @@ Su función principal es:
 
 ## Actualización
 
-Nuevos planos en [[Corazón_Mecánico]].
+Nuevos planos en los bocetos del [corazón mecánico](Corazón_Mecánico).
