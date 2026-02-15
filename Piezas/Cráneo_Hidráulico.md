@@ -1,6 +1,6 @@
 # Boceto de un posible cráneo 
 
-![Craneo Hidraulico](img/Craneo_Hidraulico.png)
+![Craneo Hidraulico](../img/Craneo_Hidraulico.png)
 
 ## Objetivo
 

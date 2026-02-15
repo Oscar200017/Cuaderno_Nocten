@@ -1,6 +1,6 @@
 # Boceto de la bomba de esencia v0.1
 
-![Bomba Esencia](img/Bomba_Esencia.png)
+![Bomba Esencia](../img/Bomba_Esencia.png)
 
 ## Descripción General
 
@@ -37,4 +37,4 @@ Su función principal es:
 
 ## Actualización
 
-Nuevos planos en los bocetos del [corazón mecánico](Piezas/Corazón_Mecánico.md).
+Nuevos planos en los bocetos del [corazón mecánico](Corazón_Mecánico.md).

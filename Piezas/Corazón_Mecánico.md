@@ -1,6 +1,6 @@
 # Boceto del corazón mecánico (v0.3)
 
-![Corazon Mecanico](img/Corazon_Mecanico.png)
+![Corazon Mecanico](../img/Corazon_Mecanico.png)
 
 ## Diferencia respecto a v0.1
 

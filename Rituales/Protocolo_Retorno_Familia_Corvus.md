@@ -1,2 +1,2 @@
-![Protocolo Retorno](img/Protocolo_Retorno.png)
+![Protocolo Retorno](../img/Protocolo_Retorno.png)
 

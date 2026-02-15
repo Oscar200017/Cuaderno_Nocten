@@ -1,6 +1,6 @@
 # Boceto de la columna mecánica
 
-![Columna Mecanica](img/Columna_Mecanica.png)
+![Columna Mecanica](../img/Columna_Mecanica.png)
 
 ## Función estructural
 
